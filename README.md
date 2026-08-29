@@ -334,7 +334,7 @@ Power BI visuals are used to transform the prepared data into:
 
 ### Executive Overview
 
-(https://github.com/hariharanst0203-arch/Netflix-Customer-Churn-Data-Analysis-PowerBI/blob/ddc0eebeda56bfb66d5f63d064c1ba389cff8521/Screenshots/Home%20Updated.png)
+Screenshots/Home Updated.png
 
 ### Content & User Analysis
 
