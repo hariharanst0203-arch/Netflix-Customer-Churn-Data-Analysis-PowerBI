@@ -352,28 +352,7 @@ Power BI visuals are used to transform the prepared data into:
 
 ---
 
-## 📁 Recommended GitHub Repository Structure
 
-```text
-Netflix-User-Data-Analysis/
-│
-├── README.md
-│
-├── PowerBI/
-│   └── Netflix_User_Data_Analysis.pbix
-│
-├── Dataset/
-│   └── netflix_user_data.csv
-│
-├── Screenshots/
-│   ├── overview.png
-│   ├── content-analysis.png
-│   ├── geographic-analysis.png
-│   └── audience-analysis.png
-│
-└── Documentation/
-    └── project-notes.md
-```
 
 If the original dataset is not licensed for redistribution, **do not upload the raw dataset**. Instead, mention the dataset source or provide instructions for obtaining it.
 
@@ -441,4 +420,4 @@ It demonstrates how raw data can be transformed into an **interactive Business I
 
 ## 📄 Disclaimer
 
-This is an **analytical/portfolio project** created for learning and demonstration purposes. The numbers and insights presented in the dashboard represent the underlying project dataset and should not be considered official Netflix corporate statistics.
+This is an **analytical project** created for learning and demonstration purposes. The numbers and insights presented in the dashboard represent the underlying project dataset and should not be considered official Netflix corporate statistics.
